@@ -17,3 +17,10 @@
     functions
 
     */
+
+
+
+
+    // Stack (Primitive),  Heap(Non primitve)
+
+    let myYt = "hitehschoudharydotcom"
