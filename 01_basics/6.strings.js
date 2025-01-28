@@ -10,3 +10,5 @@ const gname="tejaswarop"
 console.log(gname.__proto__);
 
 console.log(gname.toUpperCase())
+
+
